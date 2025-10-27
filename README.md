@@ -56,7 +56,7 @@ It’s designed for smart safety systems like **emergency detection**, **surveil
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/AudioPriorityRanker.git
+git clone https://github.com/Krishnanunni11/UAPR.git
 cd AudioPriorityRanker
 ````
 
